@@ -68,4 +68,4 @@ b. Decide whether you want to keep final image by uncommenting line 74.
 
 5. time_graph_gen.py
 
-The only use for this code is to plot the results when determining the simulation time for code 1.
+The only use for this code is to plot the results when determining the simulation time from code 1.
