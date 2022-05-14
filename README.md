@@ -68,4 +68,4 @@ b. Decide whether you want to keep final image by uncommenting line 74.
 
 5. time_graph_gen.py
 
-The only use for this code is to plot the results when determining the simulation time from code 1.
+The only use for this code is to plot the results when determining the simulation time from code 1: it can be used to compare the simulation time between the Runge Kutta and Forward Euler methods.
