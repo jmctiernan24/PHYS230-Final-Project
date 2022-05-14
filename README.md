@@ -58,7 +58,7 @@ b. Decide if you want to save the final figures, which can be done by uncommenti
 
 4. old_two_comp.py
 
-An old version of code 1 that uses numpy exclusively (and only includes Runge Kutta evolution), leading to a very slow code. It is including in the repository to show how much more efficient it is to use numba as opposed to numpy.roll.
+An old version of code 1 that uses numpy exclusively (and only includes Runge Kutta evolution), leading to a very slow code. It is included in the repository to show how much more efficient it is to use numba as opposed to numpy.roll.
 
 Instructions to run code:
 
