@@ -26,7 +26,8 @@ d. Pick which time evolution scheme you want, if line 96(97) is uncommented you 
 e. Decide if you want to save the final figure, which can be done by uncommenting line 127.
 
 
-2.modified2_final.py
+
+2. modified2_final.py
 
 This code is very similar to 1., except for the slightly modified system being simulated: it models a two component mixture based off the Flory-Huggins free energy density (explained more in Section 6.2 of Phys_230_project.pdf). Note: density array ranges from 0 to 1.
 
@@ -41,6 +42,7 @@ c. Deciding if you want to keep track of simulation time throughout ('yes' keeps
 d. Pick which time evolution scheme you want, if line 94(95) is uncommented you are using Forward Euler(Runge Kutta). Can comment/uncomment respectively to change this.
 
 e. Decide if you want to save the final figure, which can be done by uncommenting line 123.
+
 
 
 3. three_component.py
