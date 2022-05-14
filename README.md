@@ -56,4 +56,14 @@ a. Choosing preferred model parameters on lines 21-31. Be extra careful choosing
 b. Decide if you want to save the final figures, which can be done by uncommenting lines 106 and 112.
 
 
+4. old_two_comp.py
+
+An old version of code 1 that uses numpy exclusively (and only includes Runge Kutta evolution), leading to a very slow code. It is including in the repository to show how much more efficient it is to use numba as opposed to numpy.roll.
+
+Instructions to run code:
+
+a. Choose parameters for system on lines 50-57. 
+
+b. Decide whether you want to keep final image by uncommenting line 74.
+
 
